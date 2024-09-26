@@ -16,6 +16,6 @@ spec:
     spec:
        containers:
        - name: myapp
-         image: amosegonmwan/kube-frontend-nginx:1.0.0
+         image: amosegonmwan/kubenginx:3.0.0
          ports:
          - containerPort: 8080
